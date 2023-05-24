@@ -30,12 +30,9 @@
 </br>
 
 **Social Media Automate:**
-- Post Scheduling
 - Automatic Keyword Fetching from content
-- Image and content optimizing
 - Content publishing across linked accounts
 - Programmatic SEO (Auto Backlink)
-- Report Generation</br>
 - Tools used:- __Django__, __Python__, __Selenium__</br>
 </br>
 
@@ -43,7 +40,6 @@
 - Chatbot Web-app using ChatGPT API
 - Delete the previous chat
 - Regenrate the text content
-- AI generated information</br>
 - Tools used:- __chatGPT__, __django__</br>
 </br>
 
@@ -62,21 +58,8 @@
 
 **SEO Bot:**
 - Enabled Mutiple Accounts
-- Keyword Fetching from Blog Content
 - Automatic long tail keywords fetching
-- Automatic hashtags generation from keywords
-- Programmatic SEO
-- Auto Backlink Submission
-- Auto Image Submission
-- Auto Blog Submission
-- Auto Directory Submission
-- Auto Comment Submission
-- Report Generation
-- Site Audit
-- Site Traffic
-- Domain Authority
-- Average monthly traffic
-- Site Rank
+- Programmatic SEO (Auto Backlink Submission)
 - Tools used:- __Python__, __scrapy__, __bs4__, __selenium__, __django__</br>
 -----
 
