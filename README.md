@@ -78,7 +78,7 @@
 -----
 </br>
 
-## Some of my Personal Projects:
+## Some of My Personal Projects:
 </br>
 
 - Social Media Automate
@@ -88,6 +88,7 @@
     - Content publishing across linked accounts
     - Programmatic SEO (Auto Backlink)
     - Report Generation</br>
+    - Tools used:- Django, Python, Selenium</br>
 </br>
 
 - Chatbot AI
@@ -95,19 +96,20 @@
     - Delete the previous chat
     - Regenrate the text content
     - AI generated information</br>
+    - Tools used:- chatGPT</br>
 </br>
 
-- TextToImage Generator AI bot
+- TextToImage Generator AI Bot
     - Innovative AI generated image
     - Regenerate Image
-    - using stable-diffusion</br>
+    - Tools used:- stable-diffusion</br>
 </br>
 
-- Linkedin Scraping
+- Linkedin Scraper
     - Data Extraction from desired input location
     - Data Extraction from post, people and company
     - Custom filters based data extraction
-    - tools used:- scrapy,bs4,selenium</br>
+    - Tools used:- scrapy,bs4,selenium</br>
 </br>
 
 - SEO Bot
