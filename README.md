@@ -27,7 +27,7 @@
 &nbsp;
 
 
-**Languages and Tools Used:**
+**Languages and Tools Used:** 
 <div style="background-color:white;">
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -57,20 +57,26 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"><code>
+  <br />
+
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <br />
+
+  </br>
 
 
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"><code>
+  <br />
+
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"><code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"><code>
-  <br />
+
+  </br>
 
 </p>
 </div>
