@@ -26,6 +26,58 @@
 ---
 &nbsp;
 
+## Some of My Personal Projects:
+</br>
+
+**Social Media Automate:**
+- Post Scheduling
+- Automatic Keyword Fetching from content
+- Image and content optimizing
+- Content publishing across linked accounts
+- Programmatic SEO (Auto Backlink)
+- Report Generation</br>
+- Tools used:- Django, Python, Selenium</br>
+</br>
+
+**Chatbot AI:**
+- Chatbot Web-app using ChatGPT API
+- Delete the previous chat
+- Regenrate the text content
+- AI generated information</br>
+- Tools used:- chatGPT</br>
+</br>
+
+**TextToImage Generator AI Bot:**
+- Innovative AI generated image
+- Regenerate Image
+- Tools used:- stable-diffusion</br>
+</br>
+
+**Linkedin Scraper:**
+- Data Extraction from desired input location
+- Data Extraction from post, people and company
+- Custom filters based data extraction
+- Tools used:- scrapy,bs4,selenium</br>
+</br>
+
+**SEO Bot:**
+- Enabled Mutiple Accounts
+- Keyword Fetching from Blog Content
+- Automatic long tail keywords fetching
+- Automatic hashtags generation from keywords
+- Programmatic SEO
+- Auto Backlink Submission
+- Auto Image Submission
+- Auto Blog Submission
+- Auto Directory Submission
+- Auto Comment Submission
+- Report Generation
+- Site Audit
+- Site Traffic
+- Domain Authority
+- Average monthly traffic
+- Site Rank
+-----
 
 **Languages and Tools Used:** 
 <div style="background-color:white;">
@@ -83,56 +135,3 @@
 
 -----
 </br>
-
-## Some of My Personal Projects:
-</br>
-
-**Social Media Automate:**
-- Post Scheduling
-- Automatic Keyword Fetching from content
-- Image and content optimizing
-- Content publishing across linked accounts
-- Programmatic SEO (Auto Backlink)
-- Report Generation</br>
-- Tools used:- Django, Python, Selenium</br>
-</br>
-
-**Chatbot AI:**
-- Chatbot Web-app using ChatGPT API
-- Delete the previous chat
-- Regenrate the text content
-- AI generated information</br>
-- Tools used:- chatGPT</br>
-</br>
-
-**TextToImage Generator AI Bot:**
-- Innovative AI generated image
-- Regenerate Image
-- Tools used:- stable-diffusion</br>
-</br>
-
-**Linkedin Scraper:**
-- Data Extraction from desired input location
-- Data Extraction from post, people and company
-- Custom filters based data extraction
-- Tools used:- scrapy,bs4,selenium</br>
-</br>
-
-**SEO Bot:**
-- Enabled Mutiple Accounts
-- Keyword Fetching from Blog Content
-- Automatic long tail keywords fetching
-- Automatic hashtags generation from keywords
-- Programmatic SEO
-- Auto Backlink Submission
-- Auto Image Submission
-- Auto Blog Submission
-- Auto Directory Submission
-- Auto Comment Submission
-- Report Generation
-- Site Audit
-- Site Traffic
-- Domain Authority
-- Average monthly traffic
-- Site Rank
------
