@@ -36,7 +36,7 @@
 - Content publishing across linked accounts
 - Programmatic SEO (Auto Backlink)
 - Report Generation</br>
-- Tools used:- Django, Python, Selenium</br>
+- Tools used:- __Django__, __Python__, __Selenium__</br>
 </br>
 
 **Chatbot AI:**
@@ -44,20 +44,20 @@
 - Delete the previous chat
 - Regenrate the text content
 - AI generated information</br>
-- Tools used:- chatGPT</br>
+- Tools used:- __chatGPT__, __django__</br>
 </br>
 
 **TextToImage Generator AI Bot:**
 - Innovative AI generated image
 - Regenerate Image
-- Tools used:- stable-diffusion</br>
+- Tools used:- __stable-diffusion__, __python__, __FastAPI__</br>
 </br>
 
 **Linkedin Scraper:**
 - Data Extraction from desired input location
 - Data Extraction from post, people and company
 - Custom filters based data extraction
-- Tools used:- scrapy,bs4,selenium</br>
+- Tools used:- __scrapy__, __bs4__, __selenium__</br>
 </br>
 
 **SEO Bot:**
@@ -77,6 +77,7 @@
 - Domain Authority
 - Average monthly traffic
 - Site Rank
+- Tools used:- __Python__, __scrapy__, __bs4__, __selenium__, __django__</br>
 -----
 
 **Languages and Tools Used:** 
