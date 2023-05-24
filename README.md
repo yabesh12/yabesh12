@@ -64,8 +64,8 @@
 -----
 
 **Languages and Tools Used:** 
-<div style="background-color:white;">
-<p>
+<div>
+<p style="background-color:white;">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
     <code><img width="70px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png"></code>
@@ -73,7 +73,9 @@
     <code><img width="18%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
     <code><img width="18%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <br />
+  </p>
 
+<p style="background-color:white;">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -81,15 +83,19 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
   <br />
+</p>
 
+<p style="background-color:white;">
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-
   <br />
+</p>
+
+<p style="background-color:white;">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
@@ -97,10 +103,10 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   <br />
+</p>
 
-  </br>
 
-
+<p style="background-color:white;">
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -110,8 +116,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
   </br>
-
 </p>
+
 </div>
 
 -----
