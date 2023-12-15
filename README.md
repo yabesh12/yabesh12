@@ -7,10 +7,10 @@
 **About Me:**
 
 - I’m currently working as Backend Developer using __[Python](https://docs.python.org/3/)__, __[Django](https://www.djangoproject.com/)__, __[Graphene](https://docs.graphene-python.org/projects/django/en/latest/)__, __[RestAPI](https://www.django-rest-framework.org/)__, __[Flask](https://flask.palletsprojects.com/en/2.3.x/)__, __[FastAPI](https://fastapi.tiangolo.com/lo/)__.
-- I’m currently learning __[NodeJs](https://nodejs.org/en)__, __[ReactJS](https://react.dev/)__, __[GoLang](https://go.dev/)__.
+- I’m currently learning __[NodeJs](https://nodejs.org/en)__, __[ReactJS](https://react.dev/)__.
 - I’m currently learning Full Stack Development.
 - I’m looking to collaborate on anything!
-- I'm ready to help, If you ask anything related with Tech.
+
 - ***Before Tech***: I was a Digital Marketing Executive practising __SEO__, __SMM__, still doing this in my freetime.
 - How to reach me: __<a href="mailto:samyabeshv@gmail.com" >samyabeshv@gmail.com</a>__
 
