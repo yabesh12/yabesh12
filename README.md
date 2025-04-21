@@ -1,30 +1,53 @@
-## 👋 Hello! I'm Yabesh — Software Developer with 4+ Years of Experience
+<h1 align="center">Hey there! 👋 I'm Yabesh</h1>
+<h3 align="center">💻 Software Developer | 4+ Years of Experience</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with over **4 years of experience** in building scalable backend systems and APIs. My core strength lies in designing, developing, and deploying robust backend solutions that power seamless user experiences.
-
-Currently, I specialize in:
-
-- **Python Frameworks:** Django, FastAPI, Flask  
-- **API Design:** REST API, GraphQL with Graphene  
-- **Frontend Basics:** Learning ReactJS and NodeJS to become a Full Stack Developer  
-- **Database Management:** PostgreSQL, MySQL, SQLite  
-- **Web Automation & Scripting:** Selenium, BeautifulSoup, Scrapy
-
-Before moving into tech, I worked as a **Digital Marketing Executive**, where I honed my skills in **SEO**, **SMM**, and content strategy—skills that still benefit my tech journey today.
-
-I’m always open to **collaborations**, new opportunities, and contributing to meaningful projects.
+I'm a dedicated **Software Developer** with over **4 years of experience** building and maintaining reliable backend systems and APIs. I’m passionate about creating scalable, maintainable, and secure web applications using modern technologies.
 
 ---
 
-### 📫 How to Reach Me
+### 🚀 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yabeshsamuvel/)
+#### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+#### 🌐 Frontend & JS (Currently Learning)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+#### 🗃️ Database & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+### ✨ A Bit More About Me
+
+- 🔁 Transitioned from **Digital Marketing** to Tech !
+- 🔍 I love solving real-world problems with **code + creativity**
+- 🤝 Always open for **collaboration**, side-projects, and learning from peers
+- 🌱 Currently diving deep into **Full Stack Development** , **Cloud-Native Applications** and **AI based applications**
+
+---
+
+### 📫 Reach Me
+
+[![Email](https://img.shields.io/badge/-samyabeshv@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samyabeshv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yabeshsamuvel/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://yabesh.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:samyabeshv@gmail.com)
 
 ---
 
