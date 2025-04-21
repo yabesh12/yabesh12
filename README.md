@@ -1,11 +1,13 @@
-<h1 align="center">Hey there! 👋 I'm Yabesh</h1>
+<h1 align="center">Hello! 👋 I'm Yabesh</h1>
 <h3 align="center">💻 Software Developer | 4+ Years of Experience</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a dedicated **Software Developer** with over **4 years of experience** building and maintaining reliable backend systems and APIs. I’m passionate about creating scalable, maintainable, and secure web applications using modern technologies.
+I'm a dedicated **Software Developer** with over **4 years of experience** building and maintaining reliable backend systems and APIs. I’m passionate about creating scalable, maintainable, and secure web applications.  
+I’m also an **AI enthusiast**, actively exploring how intelligent systems can solve real-world problems.
+
 
 ---
 
