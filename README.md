@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a dedicated **Software Developer** with over **4 years of experience** building and maintaining reliable backend systems and APIs. I’m passionate about creating scalable, maintainable, and secure web applications.  
+I'm a dedicated **Software Developer** with over **5 years of experience** building and maintaining reliable backend systems and APIs. I’m passionate about creating scalable, maintainable, and secure web applications.  
 I’m also an **AI enthusiast**, actively exploring how intelligent systems can solve real-world problems.
 
 
